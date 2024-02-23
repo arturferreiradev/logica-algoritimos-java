@@ -7,7 +7,7 @@
 * Configurar variáveis de ambiente do sistema
 	* Painel de Controle -> Variáveis de Ambiente
 		* JAVA_HOME: C:\Program Files\Java\jdk-21.0.2
-	* Path: incluir - C:\Program Files\Java\jdk-11.0.4\bin
+	* Path: incluir - C:\Program Files\Java\jdk-21.0.2\bin
 
 ## Ubuntu e derivados
 
