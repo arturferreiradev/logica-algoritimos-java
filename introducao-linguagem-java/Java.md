@@ -1,5 +1,4 @@
 # O que é Java?
-***
 
 * Linguagem de programação (regras sintáticas)
 
@@ -8,7 +7,6 @@
 	* Ambientes de execução
 
 ## Histórico
-***
 
 * Problemas resolvidos e motivo de seu sucesso:
 	* Ponteiros / gerenciamento de memória
@@ -21,26 +19,26 @@
 * Adquirida pela Oracle Corporation em 2010
 
 ## Aspectos notáveis
-***
+
 * Código compilado para bytecode e executado em máquina virtual (JVM) • Portável, segura, robusta
 * Roda em vários tipos de dispositivos
 * Domina o mercado corporativo desde o fim do século 20
 * Padrão Android por muitos anos
 
 ## Edições
-***
+
 * [Java ME](http://www.oracle.com/technetwork/java/javame) - Java Micro Edition - dispositivos embarcados e móveis - IoT
 * [Java SE](http://www.oracle.com/technetwork/java/javase) - Java Standard Edition - core - desktop e servidores
 * [Java EE](http://www.oracle.com/technetwork/java/javaee) - Java Enterprise Edition - aplicações corporativas 
 
 ## Plataforma Java SE
-***
+
 
 * JVM - Java Virtual Machine
 	* Máquina virtual do Java - necessário para executar sistemas Java
 
 ## Compilação e interpretação
-***
+
 
 * Linguagens **compiladas**: C, C++
 	* Gera um executável para cada um dos sistemas operacionais
