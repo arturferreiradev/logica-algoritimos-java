@@ -12,9 +12,8 @@
 ## Ubuntu e derivados
 
 * No terminal digite:
-
-`sudo apt update && sudo apt upgrade -y`  
-`sudo apt install openjdk-21-jdk -y`
+* `sudo apt update && sudo apt upgrade -y`  
+* `sudo apt install openjdk-21-jdk -y`
 
 ## Eclipse
 
