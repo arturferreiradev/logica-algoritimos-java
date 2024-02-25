@@ -50,5 +50,6 @@
 
 * Linguagens **pré-compiladas + máquina virtual**: Java, C#
 	* Em Java gera um Bytecode que é executável em qualquer sistema com a JVM
+* Não é necessário compilar para cada sistema
 
 
