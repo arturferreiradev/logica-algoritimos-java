@@ -2,7 +2,8 @@
 
 * Em um novo programa inicie as seguintes variáveis
 
-`String product1 = "Computer";
+```
+String product1 = "Computer";
 String product2 = "Office Desk";
 		
 int age = 30;
@@ -11,7 +12,8 @@ char gender = 'F';
 		
 double price1 = 2100.0;
 double price2 = 650.0;
-double measure = 53.234567;`
+double measure = 53.234567;
+```
 
 * Em seguida usando os valores das variáveis, produza a seguinte saida na tela do console:
 
