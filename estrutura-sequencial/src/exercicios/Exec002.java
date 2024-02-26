@@ -15,7 +15,7 @@ public class Exec002 {
 		pi = 3.14159;
 		area = pi * Math.pow(raio, 2);
 		
-		System.out.printf("A = %.2f%n", area);
+		System.out.printf("A = %.4f%n", area);
 				
 		sc.close();
 	}
