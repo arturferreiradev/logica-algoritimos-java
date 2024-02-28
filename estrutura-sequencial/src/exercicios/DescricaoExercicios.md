@@ -17,7 +17,7 @@ SOMA = 40
 
 Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplo.
 
-Fórmula da área: area = π . raio2
+Fórmula da área: area = π . raio²
 
 Considere o valor de π = 3.14159
 
