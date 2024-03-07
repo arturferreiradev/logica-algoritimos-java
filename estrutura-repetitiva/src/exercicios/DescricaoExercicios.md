@@ -144,9 +144,9 @@ Ler um número inteiro N e calcular todos os seus divisores.
 6
 
 * Saída:  
-1
-2
-3
+1  
+2  
+3  
 6
 
 * [Resolução](https://github.com/arturferreiradev/logica-algoritimos-java/blob/main/estrutura-condicional/src/exercicios/RepFor006.java)
@@ -159,10 +159,10 @@ Ler um número inteiro N e calcular todos os seus divisores.
 5
 
 * Saída:  
-1 1 1
-2 4 8
-3 9 27
-4 16 64
+1 1 1  
+2 4 8  
+3 9 27  
+4 16 64  
 5 25 125
 
 * [Resolução](https://github.com/arturferreiradev/logica-algoritimos-java/blob/main/estrutura-condicional/src/exercicios/RepFor007.java)
