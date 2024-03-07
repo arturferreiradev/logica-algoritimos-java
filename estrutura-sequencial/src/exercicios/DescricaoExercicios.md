@@ -1,4 +1,4 @@
-# Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)
+# Exercícios sobre Estrutura Sequencial
 
 ## Exercício 01
 
